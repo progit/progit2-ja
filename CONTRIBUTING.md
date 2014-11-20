@@ -62,11 +62,11 @@ To add a figure:
 //////////////////////////
 1. Add a page to the sketchbook. Try to use the included symbols wherever possible.
 1. Add a "slice" to your page. Give it a name that matches the destination PNG filename, relative from the root of the source directory.
-1. Make sure your slice is set to export at 3x size.
+1. Make sure your slice is set to export at "800w".
 //////////////////////////
 1. スケッチブックにページを追加します。可能な限り、同梱されているシンボルを使うようにしてください。
 1. ページに「スライス」を追加します。エクスポートするPNGのファイル名（ソースディレクトリからの相対パスを含む）をスライスの名前にしてください。
-1. スライスをエクスポートするときは3倍に拡大してください。
+1. スライスをエクスポートするときのサイズは "800w" にしてください。
 
 //////////////////////////
 ## Translations
