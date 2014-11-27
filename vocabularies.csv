@@ -1,0 +1,9 @@
+原文,訳語,備考
+branch,ブランチ,
+commit,コミット,
+commit history,コミット履歴,historyと区別すること
+history,歴史,commit historyと区別すること
+merge,マージ,
+stash,stash,原文のまま
+submodule,サブモジュール,
+upstream,上流,
