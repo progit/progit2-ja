@@ -1,4 +1,6 @@
 原文	訳語	備考
+Git directory	Git ディレクトリ	
+HEAD	HEAD	最新コミットのスナップショット
 branch	ブランチ	
 browser	ブラウザー	
 change	変更	
@@ -11,19 +13,21 @@ computer	コンピューター
 data	データ	
 database	データベース	
 designer	デザイナー	
+diff	差分	ツール・コマンドのことを指す場合は原文のまま
 directory	ディレクトリ	
-Git directory	Git ディレクトリ	
 history	歴史	commit historyと区別すること
+index	インデックス	次のコミット候補のスナップショット
 installer	インストーラー	
 interface	インターフェイス	
 member	メンバー	
 merge	マージ	
 modified	修正済	
 modify	修正	
-nonlinear	ノンリニア	
 non-linear development	ノンリニア開発	
+nonlinear	ノンリニア	
 programmer	プログラマ	
 repository	リポジトリ	
+sandbox	サンドボックス
 server	サーバー	
 stage	ステージする	
 staged	ステージ済	
@@ -31,6 +35,7 @@ staging area	ステージング・エリア
 stash	stash	原文のまま
 store	格納	
 submodule	サブモジュール	
+unified diff	unified 形式の差分	
 upstream	上流	
 user	ユーザー	
 workflow	ワークフロー	
