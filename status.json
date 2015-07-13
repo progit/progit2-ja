@@ -92,7 +92,7 @@
       "sections/import-custom.asc": 0,
       "sections/import-hg.asc": 0,
       "sections/import-p4.asc": 0,
-      "sections/import-svn.asc": 0,
+      "sections/import-svn.asc": 100,
       "sections/import-tfs.asc": 0
     },
     "10-git-internals": {
