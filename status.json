@@ -90,8 +90,8 @@
       "sections/client-svn.asc": 100,
       "sections/client-tfs.asc": 100,
       "sections/import-custom.asc": 0,
-      "sections/import-hg.asc": 0,
-      "sections/import-p4.asc": 0,
+      "sections/import-hg.asc": 100,
+      "sections/import-p4.asc": 100,
       "sections/import-svn.asc": 100,
       "sections/import-tfs.asc": 0
     },
