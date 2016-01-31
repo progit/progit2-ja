@@ -18,6 +18,21 @@ Should your changes appear in a printed edition, you'll be included in the [cont
 あなたが加えた変更が出版物に掲載される場合、[貢献者リスト](book/contributors.asc) に名前が掲載されます。
 
 <!--
+## Signaling an Issue
+-->
+## Issueを登録する
+
+<!--
+Before signaling an issue, please check that there isn't already a similar one in the bug tracking system.
+-->
+issueを登録する前に、似たようなissueがバグ追跡システムにないかどうか確認してください。
+
+<!--
+Also, if this issue has been spotted on the git-scm.com site, please cross-check that it is still present in the pdf version. The issue may have already been corrected, but the changes have not been deployed yet.
+-->
+もう1点。問題があるのが git-scm.com 関連であれば、PDF版にも同じ問題があるかどうかも確認してください。解決済みだけど、まだサイトには反映されていないだけかもしれません。
+
+<!--
 ## Small Corrections
 -->
 ## 軽微な修正
