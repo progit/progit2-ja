@@ -369,7 +369,7 @@ Objective-git は Swift に対しても完全な相互運用性があるので�
 
 (((Python)))
 //////////////////////////
-The bindings for Libgit2 in Python are called Pygit2, and can be found at https://www.pygit2.org[].
+The bindings for Libgit2 in Python are called Pygit2, and can be found at http://www.pygit2.org/[].
 Our example program:
 //////////////////////////
 Libgit2 の Python 向けバインディングは Pygit2 という名前で、 http://www.pygit2.org/[] から取得できます。
